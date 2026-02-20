@@ -48,7 +48,7 @@ export default function Hero() {
             {/* Floating Image */}
             <div className="relative w-[390px] h-[390px] animate-float z-10">
               <Image
-                src="/hero.png"
+                src="/images/herosatu.png"
                 alt="Circular Saw"
                 fill
                 priority
